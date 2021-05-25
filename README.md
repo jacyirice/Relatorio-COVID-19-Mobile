@@ -1,16 +1,25 @@
 # relatorio_covid_19
 
-A new Flutter application.
+## Sobre o app
+Ao entrar no app, o usuário se depara com um texto informando a data atual e um botão para escolher uma data e 
+abaixo uma a listagem das informações dos relatórios, conforme imagem:
+<p align="center">
+  <img src="https://github.com/jacyirice/Relatorio-COVID-19-Mobile/blob/master/assets/img_readme/1.png?raw=true" height="500" alt="Tela inicial do app"/>
+</p>
 
-## Getting Started
+Ao clicar em escolher uma data, é aberto um Date picker, ele limita a data inicial para 01/03/2020 e a data final para a data atual,
+assim o usuario deve escolher uma data valida, veja imagem:
+<p align="center">
+  <img src="https://github.com/jacyirice/Relatorio-COVID-19-Mobile/blob/master/assets/img_readme/2.png?raw=true" height="500" alt="Date picker"/>
+</p>
 
-This project is a starting point for a Flutter application.
+Após escolher a data, é exibido apenas o card com a informação da data, caso não exista dados para aquela data é exibido todas as datas
+<p align="center">
+  <img src="https://github.com/jacyirice/Calculadora-IMC-Mobile/blob/master/assets/img_readme/4.png?raw=true" height="500" alt="Filtragem"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Desenvolvido por
+[Jacyiricê Silva Oliveira](https://github.com/jacyirice/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Disponivel em 
+[GitHub](https://github.com/jacyirice/Relatorio-COVID-19-Mobile)
