@@ -1,0 +1,12 @@
+[
+  {
+    "data": "2020-03-01",
+    "casos_novos_confirmados": 10,
+    "obitos_novos_confirmados": 0
+  },
+  {
+    "data": "2020-03-02",
+    "casos_novos_confirmados": 30,
+    "obitos_novos_confirmados": 0
+  }
+]
