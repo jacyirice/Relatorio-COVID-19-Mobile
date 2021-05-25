@@ -15,7 +15,7 @@ assim o usuario deve escolher uma data valida, veja imagem:
 
 Após escolher a data, é exibido apenas o card com a informação da data, caso não exista dados para aquela data é exibido todas as datas
 <p align="center">
-  <img src="https://github.com/jacyirice/Calculadora-IMC-Mobile/blob/master/assets/img_readme/3.png?raw=true" height="500" alt="Filtragem"/>
+  <img src="https://github.com/jacyirice/Relatorio-COVID-19-Mobile/blob/master/assets/img_readme/3.png?raw=true" height="500" alt="Filtragem"/>
 </p>
 
 ## Desenvolvido por
